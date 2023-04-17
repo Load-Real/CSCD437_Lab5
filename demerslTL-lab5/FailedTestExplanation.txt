@@ -1,0 +1,5 @@
+I had one shortcoming during this assignment that I could not solve. For the password pattern, I was unable to figure out how to constrain the consecutive lowercase characters, not just to a certain number, but in general. So, the test labeled PasswordPattern_invalid_format_prints_invalid_response() failed because I passed in a password containing 4 consecutive lowercase characters, and the tests failed to catch this.
+
+There are at least 6 tests per pattern.
+
+Also, Stu specified in class that the output for the test did not NEED to be in .txt format, so I opted for a PDF which is more readable.
